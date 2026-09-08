@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 14744295,
       "digest": "sha256:e404a19d43d4c86b74befcc4fbc8c4fc273392c55f00760b437213ac34f82b81",
-      "download_count": 89,
+      "download_count": 90,
       "created_at": "2026-07-25T16:41:23Z",
       "updated_at": "2026-07-25T16:41:25Z",
       "browser_download_url": "https://github.com/clawscli/claws/releases/download/v0.18.0/claws-darwin-arm64.tar.gz"
