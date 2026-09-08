@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15989591,
       "digest": "sha256:9ac15614a7b4915301b4000c158ba7f77ef819fb26dcb573c5b28b27442cf173",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-07-25T16:41:25Z",
       "updated_at": "2026-07-25T16:41:26Z",
       "browser_download_url": "https://github.com/clawscli/claws/releases/download/v0.18.0/claws-windows-amd64.zip"
