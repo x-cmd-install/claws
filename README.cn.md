@@ -12,6 +12,18 @@ k9s-inspired TUI for AWS resource management with vim-style navigation
 x install claws
 ```
 
+## 代码规模
+
+合计: **99,668** 行代码（覆盖前 5 种语言、共 **940** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 98,236 | 7,519 | 16,417 | 931 |
+| Yaml | 623 | 24 | 73 | 2 |
+| Sh | 594 | 75 | 150 | 5 |
+| Nix | 116 | 4 | 5 | 1 |
+| Json | 82 | 0 | 0 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/clawscli/claws>
@@ -22,17 +34,6 @@ x install claws
 - **最新版本**: `v0.18.0` (2026-07-25)
 - **最近提交**: 2026-07-25
 - **Release 含资产**: 6 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [checksums.txt](https://github.com/clawscli/claws/releases/download/v0.18.0/checksums.txt) | 456 B | `other` |
-| [claws-darwin-amd64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.0/claws-darwin-amd64.tar.gz) | 15.3 MiB | `native/darwin/x64` |
-| [claws-darwin-arm64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.0/claws-darwin-arm64.tar.gz) | 14.1 MiB | `native/darwin/arm64` |
-| [claws-linux-amd64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.0/claws-linux-amd64.tar.gz) | 14.9 MiB | `native/linux/x64` |
-| [claws-linux-arm64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.0/claws-linux-arm64.tar.gz) | 13.3 MiB | `native/linux/arm64` |
-| [claws-windows-amd64.zip](https://github.com/clawscli/claws/releases/download/v0.18.0/claws-windows-amd64.zip) | 15.2 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -47,20 +48,30 @@ x install claws
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 1 | 3 | 0 | 2 | 0 | 4 |
 | 90d | 2026-06-12 | 2 | 6 | 0 | 2 | 0 | 5 |
+| last180d | 2026-03-14 | 6 | 19 | 0 | 4 | 1 | 90 |
 | 360d | 2025-09-15 | 77 | 132 | 0 | 52 | 6 | 229 |
+| last720d | 2024-09-20 | 77 | 132 | 0 | 52 | 6 | 324 |
 
-## 代码规模
+## Release 资产
 
-合计: **99,668** 行代码（覆盖前 5 种语言、共 **940** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/clawscli/claws/releases/download/v0.18.0/checksums.txt) | 456 B | `other` |
+| [claws-darwin-amd64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.0/claws-darwin-amd64.tar.gz) | 15.3 MiB | `native/darwin/x64` |
+| [claws-darwin-arm64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.0/claws-darwin-arm64.tar.gz) | 14.1 MiB | `native/darwin/arm64` |
+| [claws-linux-amd64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.0/claws-linux-amd64.tar.gz) | 14.9 MiB | `native/linux/x64` |
+| [claws-linux-arm64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.0/claws-linux-arm64.tar.gz) | 13.3 MiB | `native/linux/arm64` |
+| [claws-windows-amd64.zip](https://github.com/clawscli/claws/releases/download/v0.18.0/claws-windows-amd64.zip) | 15.2 MiB | `native/win/x64` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 98,236 | 7,519 | 16,417 | 931 |
-| Yaml | 623 | 24 | 73 | 2 |
-| Sh | 594 | 75 | 150 | 5 |
-| Nix | 116 | 4 | 5 | 1 |
-| Json | 82 | 0 | 0 | 1 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/claws) 上共有 **9** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `0.4.1` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -71,4 +82,4 @@ claws 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:31:05Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:38:43Z._
