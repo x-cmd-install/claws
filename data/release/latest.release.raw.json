@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 14744295,
       "digest": "sha256:e404a19d43d4c86b74befcc4fbc8c4fc273392c55f00760b437213ac34f82b81",
-      "download_count": 93,
+      "download_count": 94,
       "created_at": "2026-07-25T16:41:23Z",
       "updated_at": "2026-07-25T16:41:25Z",
       "browser_download_url": "https://github.com/clawscli/claws/releases/download/v0.18.0/claws-darwin-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 15673294,
       "digest": "sha256:a93869757952301c7b3f545bd851d596e7b3e91b1296bd9acac8cfc3551b9200",
-      "download_count": 66,
+      "download_count": 69,
       "created_at": "2026-07-25T16:41:24Z",
       "updated_at": "2026-07-25T16:41:25Z",
       "browser_download_url": "https://github.com/clawscli/claws/releases/download/v0.18.0/claws-linux-amd64.tar.gz"
