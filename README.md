@@ -4,7 +4,7 @@
 
 k9s-inspired TUI for AWS resource management with vim-style navigation
 
-![claws](https://repo.x-cmd.io/claws.svg)
+[![x-cmd/install — claws Code Quality Monitoring Repo Card](https://repo.x-cmd.io/claws.svg)](https://x-cmd.com/install/claws)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **99,668** lines of code across **940** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 1 | 1 | 0 | 1 | 0 | 0 |
-| 90d | 2026-06-20 | 1 | 4 | 0 | 2 | 0 | 5 |
-| last180d | 2026-03-22 | 5 | 19 | 0 | 4 | 1 | 90 |
-| 360d | 2025-09-23 | 77 | 132 | 0 | 52 | 6 | 229 |
-| last720d | 2024-09-28 | 77 | 132 | 0 | 52 | 6 | 324 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 1 | 4 | 0 | 2 | 0 | 4 |
+| last180d | 2026-03-24 | 5 | 19 | 0 | 4 | 1 | 90 |
+| 360d | 2025-09-25 | 77 | 132 | 0 | 52 | 6 | 229 |
+| last720d | 2024-09-30 | 77 | 132 | 0 | 52 | 6 | 324 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for claws lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:43:48Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:54:38Z._
