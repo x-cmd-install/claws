@@ -31,39 +31,39 @@ Total: **99,668** lines of code across **940** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.18.0` (2026-07-25)
-- **Last commit**: 2026-07-25
+- **Latest**: `v0.18.1` (2026-10-31)
+- **Last commit**: 2026-10-31
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 163 · **Forks**: 15 · **Open issues**: 59 · **Contributors**: 8
+- **Stars**: 164 · **Forks**: 15 · **Open issues**: 59 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 77 · **Merged PRs**: 132 · **Open PRs**: 0 · **Closed issues**: 52 · **Open issues**: 7 · **Commits**: 324
+- **Releases**: 78 · **Merged PRs**: 133 · **Open PRs**: 0 · **Closed issues**: 52 · **Open issues**: 7 · **Commits**: 326
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-31 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-08-01 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-05-03 | 5 | 17 | 0 | 4 | 2 | 69 |
-| 360d | 2025-11-04 | 77 | 132 | 0 | 52 | 7 | 229 |
-| last720d | 2024-11-09 | 77 | 132 | 0 | 52 | 7 | 324 |
+| 30d | 2026-10-01 | 1 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-01 | 1 | 1 | 0 | 0 | 1 | 1 |
+| 90d | 2026-08-02 | 1 | 1 | 0 | 0 | 1 | 1 |
+| last180d | 2026-05-04 | 6 | 18 | 0 | 4 | 2 | 70 |
+| 360d | 2025-11-05 | 78 | 133 | 0 | 52 | 7 | 230 |
+| last720d | 2024-11-10 | 78 | 133 | 0 | 52 | 7 | 326 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/clawscli/claws/releases/download/v0.18.0/checksums.txt) | 456 B | `other` |
-| [claws-darwin-amd64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.0/claws-darwin-amd64.tar.gz) | 15.3 MiB | `native/darwin/x64` |
-| [claws-darwin-arm64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.0/claws-darwin-arm64.tar.gz) | 14.1 MiB | `native/darwin/arm64` |
-| [claws-linux-amd64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.0/claws-linux-amd64.tar.gz) | 14.9 MiB | `native/linux/x64` |
-| [claws-linux-arm64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.0/claws-linux-arm64.tar.gz) | 13.3 MiB | `native/linux/arm64` |
-| [claws-windows-amd64.zip](https://github.com/clawscli/claws/releases/download/v0.18.0/claws-windows-amd64.zip) | 15.2 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/clawscli/claws/releases/download/v0.18.1/checksums.txt) | 456 B | `other` |
+| [claws-darwin-amd64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.1/claws-darwin-amd64.tar.gz) | 15.3 MiB | `native/darwin/x64` |
+| [claws-darwin-arm64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.1/claws-darwin-arm64.tar.gz) | 14.1 MiB | `native/darwin/arm64` |
+| [claws-linux-amd64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.1/claws-linux-amd64.tar.gz) | 14.9 MiB | `native/linux/x64` |
+| [claws-linux-arm64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.1/claws-linux-arm64.tar.gz) | 13.3 MiB | `native/linux/arm64` |
+| [claws-windows-amd64.zip](https://github.com/clawscli/claws/releases/download/v0.18.1/claws-windows-amd64.zip) | 15.2 MiB | `native/win/x64` |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for claws lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:38:32Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:32:35Z._

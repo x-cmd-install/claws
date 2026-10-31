@@ -31,39 +31,39 @@ x install claws
 
 ## 发布
 
-- **最新版本**: `v0.18.0` (2026-07-25)
-- **最近提交**: 2026-07-25
+- **最新版本**: `v0.18.1` (2026-10-31)
+- **最近提交**: 2026-10-31
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 163 · **Fork**: 15 · **开放 issue**: 59 · **贡献者**: 8
+- **Star**: 164 · **Fork**: 15 · **开放 issue**: 59 · **贡献者**: 8
 
 ## 累计统计
 
-- **发布数**: 77 · **已合并 PR**: 132 · **开放 PR**: 0 · **已关闭 issue**: 52 · **开放 issue**: 7 · **提交数**: 324
+- **发布数**: 78 · **已合并 PR**: 133 · **开放 PR**: 0 · **已关闭 issue**: 52 · **开放 issue**: 7 · **提交数**: 326
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-31 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-08-01 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-05-03 | 5 | 17 | 0 | 4 | 2 | 69 |
-| 360d | 2025-11-04 | 77 | 132 | 0 | 52 | 7 | 229 |
-| last720d | 2024-11-09 | 77 | 132 | 0 | 52 | 7 | 324 |
+| 30d | 2026-10-01 | 1 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-01 | 1 | 1 | 0 | 0 | 1 | 1 |
+| 90d | 2026-08-02 | 1 | 1 | 0 | 0 | 1 | 1 |
+| last180d | 2026-05-04 | 6 | 18 | 0 | 4 | 2 | 70 |
+| 360d | 2025-11-05 | 78 | 133 | 0 | 52 | 7 | 230 |
+| last720d | 2024-11-10 | 78 | 133 | 0 | 52 | 7 | 326 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/clawscli/claws/releases/download/v0.18.0/checksums.txt) | 456 B | `other` |
-| [claws-darwin-amd64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.0/claws-darwin-amd64.tar.gz) | 15.3 MiB | `native/darwin/x64` |
-| [claws-darwin-arm64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.0/claws-darwin-arm64.tar.gz) | 14.1 MiB | `native/darwin/arm64` |
-| [claws-linux-amd64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.0/claws-linux-amd64.tar.gz) | 14.9 MiB | `native/linux/x64` |
-| [claws-linux-arm64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.0/claws-linux-arm64.tar.gz) | 13.3 MiB | `native/linux/arm64` |
-| [claws-windows-amd64.zip](https://github.com/clawscli/claws/releases/download/v0.18.0/claws-windows-amd64.zip) | 15.2 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/clawscli/claws/releases/download/v0.18.1/checksums.txt) | 456 B | `other` |
+| [claws-darwin-amd64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.1/claws-darwin-amd64.tar.gz) | 15.3 MiB | `native/darwin/x64` |
+| [claws-darwin-arm64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.1/claws-darwin-arm64.tar.gz) | 14.1 MiB | `native/darwin/arm64` |
+| [claws-linux-amd64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.1/claws-linux-amd64.tar.gz) | 14.9 MiB | `native/linux/x64` |
+| [claws-linux-arm64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.1/claws-linux-arm64.tar.gz) | 13.3 MiB | `native/linux/arm64` |
+| [claws-windows-amd64.zip](https://github.com/clawscli/claws/releases/download/v0.18.1/claws-windows-amd64.zip) | 15.2 MiB | `native/win/x64` |
 
 ## 发行版状态
 
@@ -82,4 +82,4 @@ claws 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261030.yml` · 2026-10-30T05:38:33Z._
+_数据快照: `data/card/261031.yml` · 2026-10-31T05:32:36Z._
