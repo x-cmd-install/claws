@@ -1,20 +1,9 @@
-- repo: nix_stable_26_05
-  srcname: claws
-  visiblename: claws
-  version: 0.4.1
-  origversion: null
-  status: outdated
-  summary: Interactive command line client for testing websocket servers
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - MIT
 - repo: aur
   srcname: claws-bin
   binname: claws-bin
   visiblename: claws-bin
-  version: 0.18.0
-  origversion: 0.18.0-1
+  version: 0.18.1
+  origversion: 0.18.1-1
   status: newest
   summary: k9s-inspired TUI for AWS resource management with vim-style navigation (prebuilt binary)
   maintainers:
@@ -39,7 +28,7 @@
   visiblename: net/claws
   version: 0.18.0
   origversion: 0.18.0_4
-  status: newest
+  status: outdated
   summary: Terminal UI for AWS resource management
   maintainers:
     - olgeni@freebsd.org
@@ -79,6 +68,17 @@
   licenses:
     - MIT
 - repo: nix_stable_25_11
+  srcname: claws
+  visiblename: claws
+  version: 0.4.1
+  origversion: null
+  status: outdated
+  summary: Interactive command line client for testing websocket servers
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
   srcname: claws
   visiblename: claws
   version: 0.4.1
