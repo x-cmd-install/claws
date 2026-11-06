@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 456,
       "digest": "sha256:acb8ecc39b8642a99d83a88a5eb0cc06b87e49e1df2bd43bc0ceb1c54168bc17",
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2026-10-31T01:41:20Z",
       "updated_at": "2026-10-31T01:41:20Z",
       "browser_download_url": "https://github.com/clawscli/claws/releases/download/v0.18.1/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 16047339,
       "digest": "sha256:f4be45261c0be245c18fa31aa6f14e636550af9d8407155eec28f39327b11ec6",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-10-31T01:41:18Z",
       "updated_at": "2026-10-31T01:41:19Z",
       "browser_download_url": "https://github.com/clawscli/claws/releases/download/v0.18.1/claws-darwin-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 14739260,
       "digest": "sha256:99db748ff175bd26680f8889360edd885869144a54b1122f4ddea38835c2c0ae",
-      "download_count": 38,
+      "download_count": 42,
       "created_at": "2026-10-31T01:41:18Z",
       "updated_at": "2026-10-31T01:41:19Z",
       "browser_download_url": "https://github.com/clawscli/claws/releases/download/v0.18.1/claws-darwin-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 15655053,
       "digest": "sha256:c89ed8cf8e1a9e6ad64eaef539dc789b749b467c63bf7530bfd46bdbc497f70b",
-      "download_count": 36,
+      "download_count": 41,
       "created_at": "2026-10-31T01:41:18Z",
       "updated_at": "2026-10-31T01:41:19Z",
       "browser_download_url": "https://github.com/clawscli/claws/releases/download/v0.18.1/claws-linux-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 13941666,
       "digest": "sha256:dd16b1f9e437e01d6228b736a16746e0ddd637b1b68ff9ad229d62396d6713bd",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-10-31T01:41:18Z",
       "updated_at": "2026-10-31T01:41:19Z",
       "browser_download_url": "https://github.com/clawscli/claws/releases/download/v0.18.1/claws-linux-arm64.tar.gz"
