@@ -37,7 +37,7 @@ Total: **99,668** lines of code across **940** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 164 · **Forks**: 15 · **Open issues**: 59 · **Contributors**: 8
+- **Stars**: 165 · **Forks**: 15 · **Open issues**: 59 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **99,668** lines of code across **940** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 1 | 1 | 1 | 0 | 0 | 1 |
-| last60d | 2026-09-06 | 1 | 1 | 1 | 0 | 1 | 1 |
-| 90d | 2026-08-07 | 1 | 1 | 1 | 0 | 1 | 1 |
-| last180d | 2026-05-09 | 5 | 15 | 1 | 4 | 2 | 64 |
-| 360d | 2025-11-10 | 78 | 133 | 1 | 52 | 7 | 230 |
-| last720d | 2024-11-15 | 78 | 133 | 1 | 52 | 7 | 326 |
+| 30d | 2026-10-07 | 1 | 1 | 1 | 0 | 0 | 1 |
+| last60d | 2026-09-07 | 1 | 1 | 1 | 0 | 1 | 1 |
+| 90d | 2026-08-08 | 1 | 1 | 1 | 0 | 1 | 1 |
+| last180d | 2026-05-10 | 5 | 15 | 1 | 4 | 2 | 64 |
+| 360d | 2025-11-11 | 78 | 133 | 1 | 52 | 7 | 230 |
+| last720d | 2024-11-16 | 78 | 133 | 1 | 52 | 7 | 326 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for claws lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:36:14Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:34:20Z._
