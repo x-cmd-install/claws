@@ -37,7 +37,7 @@ Total: **99,668** lines of code across **940** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 165 · **Forks**: 15 · **Open issues**: 59 · **Contributors**: 8
+- **Stars**: 166 · **Forks**: 15 · **Open issues**: 59 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **99,668** lines of code across **940** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 1 | 1 | 0 | 0 | 1 |
-| last60d | 2026-09-09 | 1 | 1 | 1 | 0 | 1 | 1 |
-| 90d | 2026-08-10 | 1 | 1 | 1 | 0 | 1 | 1 |
-| last180d | 2026-05-12 | 5 | 14 | 1 | 4 | 2 | 63 |
-| 360d | 2025-11-13 | 78 | 133 | 1 | 52 | 7 | 230 |
-| last720d | 2024-11-18 | 78 | 133 | 1 | 52 | 7 | 326 |
+| 30d | 2026-10-11 | 1 | 1 | 1 | 0 | 0 | 1 |
+| last60d | 2026-09-11 | 1 | 1 | 1 | 0 | 1 | 1 |
+| 90d | 2026-08-12 | 1 | 1 | 1 | 0 | 1 | 1 |
+| last180d | 2026-05-14 | 5 | 14 | 1 | 4 | 2 | 63 |
+| 360d | 2025-11-15 | 78 | 133 | 1 | 52 | 7 | 230 |
+| last720d | 2024-11-20 | 78 | 133 | 1 | 52 | 7 | 326 |
 
 ## Release assets
 
@@ -65,14 +65,6 @@ Total: **99,668** lines of code across **940** files in the top 5 languages.
 | [claws-linux-arm64.tar.gz](https://github.com/clawscli/claws/releases/download/v0.18.1/claws-linux-arm64.tar.gz) | 13.3 MiB | `native/linux/arm64` |
 | [claws-windows-amd64.zip](https://github.com/clawscli/claws/releases/download/v0.18.1/claws-windows-amd64.zip) | 15.2 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **9** distros on [repology.org](https://repology.org/project/claws). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.4.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for claws lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `claws` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -82,4 +74,4 @@ Install metadata for claws lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:01:30Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:09:49Z._
