@@ -27,7 +27,7 @@
   binname: claws
   visiblename: net/claws
   version: 0.18.0
-  origversion: 0.18.0_4
+  origversion: 0.18.0_5
   status: outdated
   summary: Terminal UI for AWS resource management
   maintainers:
