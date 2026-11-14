@@ -47,12 +47,12 @@ Total: **99,668** lines of code across **940** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 1 | 1 | 1 | 0 | 0 | 1 |
-| last60d | 2026-09-14 | 1 | 1 | 1 | 0 | 1 | 1 |
-| 90d | 2026-08-15 | 1 | 1 | 1 | 0 | 1 | 1 |
-| last180d | 2026-05-17 | 5 | 14 | 1 | 4 | 2 | 63 |
-| 360d | 2025-11-18 | 78 | 133 | 1 | 52 | 7 | 230 |
-| last720d | 2024-11-23 | 78 | 133 | 1 | 52 | 7 | 326 |
+| 30d | 2026-10-15 | 1 | 1 | 1 | 0 | 0 | 1 |
+| last60d | 2026-09-15 | 1 | 1 | 1 | 0 | 1 | 1 |
+| 90d | 2026-08-16 | 1 | 1 | 1 | 0 | 1 | 1 |
+| last180d | 2026-05-18 | 5 | 14 | 1 | 4 | 2 | 63 |
+| 360d | 2025-11-19 | 78 | 133 | 1 | 52 | 7 | 230 |
+| last720d | 2024-11-24 | 78 | 133 | 1 | 52 | 7 | 326 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for claws lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:34:38Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:19:15Z._
