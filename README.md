@@ -47,12 +47,12 @@ Total: **99,668** lines of code across **940** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 1 | 1 | 0 | 0 | 1 |
-| last60d | 2026-09-24 | 1 | 1 | 1 | 0 | 1 | 1 |
-| 90d | 2026-08-25 | 1 | 1 | 1 | 0 | 1 | 1 |
-| last180d | 2026-05-27 | 4 | 11 | 1 | 3 | 2 | 57 |
-| 360d | 2025-11-28 | 78 | 133 | 1 | 52 | 7 | 230 |
-| last720d | 2024-12-03 | 78 | 133 | 1 | 52 | 7 | 326 |
+| 30d | 2026-10-25 | 1 | 1 | 1 | 0 | 0 | 1 |
+| last60d | 2026-09-25 | 1 | 1 | 1 | 0 | 1 | 1 |
+| 90d | 2026-08-26 | 1 | 1 | 1 | 0 | 1 | 1 |
+| last180d | 2026-05-28 | 4 | 11 | 1 | 3 | 2 | 57 |
+| 360d | 2025-11-29 | 78 | 133 | 1 | 52 | 7 | 230 |
+| last720d | 2024-12-04 | 78 | 133 | 1 | 52 | 7 | 326 |
 
 ## Release assets
 
@@ -67,7 +67,7 @@ Total: **99,668** lines of code across **940** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **9** distros on [repology.org](https://repology.org/project/claws). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **9** distros on [repology.org](https://repology.org/project/claws). **2** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -82,4 +82,4 @@ Install metadata for claws lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:41:20Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:47:36Z._
